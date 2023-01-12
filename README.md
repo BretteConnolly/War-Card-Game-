@@ -2,4 +2,4 @@ What this program does: An automated game of war. War is usually two-player. Eac
 
 What this program entails: A data file of the integer value of each card in a 54-card deck. Cards are dealt with random methods. Uses list methods to reuse cards and transfer cards from one player to another. Keeps track of the number of moves with a counter variable.
 
-Future applications: Can be extended to play multiple games and calculate the average number of moves per game. 
+Future applications: The user playing against the computer. Automated version can be extended to play multiple games and calculate the average number of moves per game. 
